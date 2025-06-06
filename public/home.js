@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Contact PayPal Support for answers to all of your online payment questions or to sign up for our services! PayPal is the world's leading online payment processor.</p>
           </div>
         `
         break
